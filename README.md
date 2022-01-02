@@ -1,0 +1,1 @@
+Apresento aqui a versão desktop em alta fidelidade, feita no Figma, do site de e-commerce do hipotético jogo "Geométrica"
